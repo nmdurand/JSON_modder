@@ -1,0 +1,11 @@
+{
+  "name": "json_modder",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "coffeescript": "^2.3.2",
+    "lodash": "^4.17.11"
+  }
+}
